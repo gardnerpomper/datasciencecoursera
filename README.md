@@ -1,4 +1,7 @@
 datasciencecoursera
 ===================
 
-Course repo for "The Data Scientist's Toolbox"
+Individual course repo for "The Data Scientist's Toolbox"
+for Gardner Pomper
+
+
